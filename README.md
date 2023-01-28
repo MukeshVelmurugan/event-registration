@@ -35,4 +35,4 @@ Publish the website in the given URL.
 
 
 ## Result:
-
+Thus
