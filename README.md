@@ -33,10 +33,15 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ![m](./1.png)
+
 ![n](./2.png)
+
 ![b](./3.png)
+
 ![v](./4.png)
+
 ![c](./5.png)
+
 ![x](./6.png)
 
 
